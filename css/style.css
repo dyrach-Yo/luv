@@ -17,7 +17,7 @@ header {
   right: 25px;
   top: 14px;
 }
-@media (min-width: 600px) and (max-width: 1920px) {
+@media (min-width: 1000px) and (max-width: 1920px) {
   ul {
     display: flex;
     list-style: none;
@@ -40,7 +40,7 @@ header {
   }
 }
 /* Стили для гамбургер меню  */
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .bg {
     display: flex;
     width: 158px;
